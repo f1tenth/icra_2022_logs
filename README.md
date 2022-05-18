@@ -25,3 +25,6 @@ To reply the logs, change the log file path and finally run `main.py`:
 ```bash
 python src/main.py
 ```
+
+Here is the overview of the tournament with all rounds, races and teams.
+![F1TENTH ICRA 2022 Tournament](resources/Tournament.png)
